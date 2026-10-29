@@ -1,3 +1,5 @@
+.idea/
+
 Builds/*/build
 Builds/MacOSX/showmidi.xcodeproj/xcuserdata
 Builds/MacOSX/showmidi.xcodeproj/project.xcworkspace/xcuserdata
