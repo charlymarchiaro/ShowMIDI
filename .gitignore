@@ -1,4 +1,5 @@
 .idea/
+.reaper/
 
 Builds/*/build
 Builds/MacOSX/showmidi.xcodeproj/xcuserdata
